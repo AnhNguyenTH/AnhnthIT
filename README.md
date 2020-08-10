@@ -1,6 +1,6 @@
-### Hi, My name's Hong Anh! 👋
+### Hi, My name's Hong Anh! 👋👋👋
 
-## I'm a Software Developer. 
+## I'm a Back-end Website Developer. 
 
 <!--
 **AnhnthIT/AnhnthIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
