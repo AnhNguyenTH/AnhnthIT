@@ -1,6 +1,6 @@
 ### Hello, guys. 👋👋👋
 
-Format: ![This is my private profile](https://user-images.githubusercontent.com/68729578/89806828-d4663480-db61-11ea-8e86-0599ec92998f.png)
+![This is my private profile](https://user-images.githubusercontent.com/68729578/89806828-d4663480-db61-11ea-8e86-0599ec92998f.png)
 
 #### My name's Hong Anh. I'm a Back-end Website Developer. 
 
